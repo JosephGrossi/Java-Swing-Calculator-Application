@@ -7,38 +7,38 @@ Beyond basic functionality, the project explores elements of structured and expr
 
 Academic Context
 
-Developed for Computer Science II, this project demonstrates:
+-Developed for Computer Science II, this project demonstrates:
 
-Object-Oriented Programming (OOP) principles
+-Object-Oriented Programming (OOP) principles
 
-Event-driven programming with ActionListeners
+-Event-driven programming with ActionListeners
 
-GUI construction using Java Swing
+-GUI construction using Java Swing
 
-Separation of concerns between interface and logic
+-Separation of concerns between interface and logic
 
-Practical application of control flow and state management
+-Practical application of control flow and state management
 
 The project emphasizes clean program structure while also allowing room for creative implementation choices.
 
 Features
 
-Addition, subtraction, multiplication, and division
+-Addition, subtraction, multiplication, and division
 
-Interactive button-based GUI
+-Interactive button-based GUI
 
-Event listener architecture
+-Event listener architecture
 
-Custom UI behavior
+-Custom UI behavior
 
-Embedded image asset (easter egg feature)
+-Embedded image asset (easter egg feature)
 
 Technologies Used
 
-Java
+-Java
 
-Java Swing
+-Java Swing
 
-Event Listeners
+-Event Listeners
 
 Object-Oriented Programming
